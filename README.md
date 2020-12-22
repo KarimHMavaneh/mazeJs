@@ -1,0 +1,2 @@
+# mazeJs
+Maze game
